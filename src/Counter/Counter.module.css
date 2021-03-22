@@ -1,0 +1,18 @@
+.container {
+  margin-left: 40px;
+  display: flex;
+}
+
+.listStat {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.feedback {
+  width: 600px;
+  text-align: center;
+  margin: 50px auto 0px auto;
+  border: solid 1px teal;
+  border-radius: 3px;
+}
