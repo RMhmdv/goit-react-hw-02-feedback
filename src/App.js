@@ -1,10 +1,10 @@
 import './App.css';
-import Counter from './Counter/Counter';
+import Counter from './components/Counter/Counter';
 
 function App() {
   return (
     <>
-      <Counter good={0} neutral={0} bad={0} />
+      <Counter />
     </>
   );
 }
